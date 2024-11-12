@@ -47,3 +47,9 @@ body{
   border-bottom-color: currentColor;
   border-top: none;
 }
+
+@media(max-width:700px){
+  #wheel{
+    width: 100%;
+  }
+}
